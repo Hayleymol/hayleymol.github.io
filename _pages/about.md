@@ -7,7 +7,7 @@ subtitle: PhD in Computer Graphics from KAIST.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
