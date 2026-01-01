@@ -6,7 +6,7 @@
     - name: Nationality
       value: South Korea
     - name: Languages
-      value: Korean(Native), English(Fluent)
+      value: "Korean(Native), English(Fluent)"
 
 - title: Research Interests
   type: list
@@ -73,7 +73,8 @@
     - title: Best Demo Honorable Mention
       year: 2024
       description:
-        - Award for the demo at ISMAR: Visibility Modulation of Aligned Spaces for Multi-User Telepresence
+        - "Award for the demo: Visibility Modulation of Aligned Spaces for Multi-User Telepresence"
+        - ISMAR
     - title: Fully Funded Fellowship
       year: 2021 - 2026
       description:
@@ -84,10 +85,11 @@
         - KAIST
     - title: First Place
       year: 2021
-      description: Award for the artwork at Art Center NABI: `Hello, World!: new playground'
+      description: 
+        - "Award for the artwork at Art Center NABI: Hello, World!: new playground"
         - KAIST
     - title: Fully Funded Fellowship
-      year: 2018-2021
+      year: 2018 - 2021
       description:
         - KAIST
 
