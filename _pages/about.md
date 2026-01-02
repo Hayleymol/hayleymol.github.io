@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in [LAVA Lab](https://lava.kaist.ac.kr) in KAIST. My research interest lies in making novel telepresence systems. I have experience in motion generation, user experience, and generating novel MR systems. I also work as a metaverse consultant who plans and operates MR events.
+I am a Ph.D. candidate in [LAVA Lab](https://lava.kaist.ac.kr) in KAIST. My research interest lies in making novel telepresence systems. Recently, I have been focusing more on scene synthesis and generation within telepresence environment. I have experience in motion generation, user experience, and generating novel MR systems. I also work as a metaverse consultant who plans and operates MR events.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
