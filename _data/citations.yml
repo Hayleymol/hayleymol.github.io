@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-16'
 papers:
   UA6LFyIAAAAJ:9yKSN-GCB0IC:
     citations: 15
     title: Multi-scale Mixed Reality Collaboration for Digital Twin.
     year: '2021'
   UA6LFyIAAAAJ:IjCSPb-OGe4C:
-    citations: 17
+    citations: 18
     title: Visual guidance for user placement in avatar-mediated telepresence between dissimilar spaces
     year: '2024'
   UA6LFyIAAAAJ:Tyk-4Ss8FVUC:
@@ -14,7 +14,7 @@ papers:
     title: Evaluating User Perception Toward Pose-Changed Avatar in Remote Dissimilar Spaces
     year: '2024'
   UA6LFyIAAAAJ:UeHWp8X0CEIC:
-    citations: 13
+    citations: 14
     title: Real-time retargeting of deictic motion to virtual avatars for augmented reality telepresence
     year: '2023'
   UA6LFyIAAAAJ:Y0pCki6q_DkC:
@@ -22,7 +22,7 @@ papers:
     title: Evaluating user perception toward physics-adapted avatar in remote heterogeneous spaces
     year: '2025'
   UA6LFyIAAAAJ:YsMSGLbcyi4C:
-    citations: 2
+    citations: 3
     title: Real-time translation of upper-body gestures to virtual avatars in dissimilar telepresence environments
     year: '2025'
   UA6LFyIAAAAJ:_FxGoFyzp5QC:
