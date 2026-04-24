@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-04-24'
 papers:
   UA6LFyIAAAAJ:9yKSN-GCB0IC:
-    citations: 15
+    citations: 16
     title: Multi-scale Mixed Reality Collaboration for Digital Twin.
     year: '2021'
   UA6LFyIAAAAJ:IjCSPb-OGe4C:
-    citations: 18
+    citations: 19
     title: Visual guidance for user placement in avatar-mediated telepresence between dissimilar spaces
     year: '2024'
   UA6LFyIAAAAJ:Tyk-4Ss8FVUC:
@@ -46,6 +46,6 @@ papers:
     title: 'Voronoi Rooms: Dynamic Visibility Modulation of Overlapping Spaces for Telepresence'
     year: '2025'
   UA6LFyIAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: Sense of embodiment inducement for people with reduced lower-body mobility and sensations with partial-visuomotor stimulation
     year: '2022'
