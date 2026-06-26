@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: PhD in Computer Graphics from KAIST.
+subtitle: Postdoctoral Researcher, KAIST
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in [LAVA Lab](https://lava.kaist.ac.kr) in KAIST. My research interest lies in making novel telepresence systems. I have been working on scene synthesis and generation within telepresence environment. My current focus is to extend my research beyond telepresence systems with real physical users to AI-mediated, spatially grounded environments where AI-generated content and agents blend naturally within multi-user interactions. 
+I am a postdoc affiliated with the InnoCORE AI-meta scinetist program in KAIST, co-advised by Professor Sung-Hee Lee and Tae Kyun Kim. My research interest lies in making novel telepresence systems. I have been working on scene synthesis and generation within telepresence environment. My current focus is to extend my research beyond telepresence systems with real physical users to AI-mediated, spatially grounded environments. 
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
