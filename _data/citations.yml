@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-07-17'
 papers:
   UA6LFyIAAAAJ:9yKSN-GCB0IC:
     citations: 17
     title: Multi-scale Mixed Reality Collaboration for Digital Twin.
     year: '2021'
   UA6LFyIAAAAJ:IjCSPb-OGe4C:
-    citations: 23
+    citations: 24
     title: Visual guidance for user placement in avatar-mediated telepresence between dissimilar spaces
     year: '2024'
   UA6LFyIAAAAJ:Tyk-4Ss8FVUC:
@@ -14,7 +14,7 @@ papers:
     title: Evaluating User Perception Toward Pose-Changed Avatar in Remote Dissimilar Spaces
     year: '2024'
   UA6LFyIAAAAJ:UeHWp8X0CEIC:
-    citations: 15
+    citations: 16
     title: Real-time retargeting of deictic motion to virtual avatars for augmented reality telepresence
     year: '2023'
   UA6LFyIAAAAJ:Y0pCki6q_DkC:
@@ -34,7 +34,7 @@ papers:
     title: Visibility Modulation of Aligned Spaces for Multi-User Telepresence
     year: '2024'
   UA6LFyIAAAAJ:u-x6o8ySG0sC:
-    citations: 4
+    citations: 5
     title: Quadruped locomotion on non-rigid terrain using reinforcement learning
     year: '2021'
   UA6LFyIAAAAJ:u5HHmVD_uO8C:
@@ -42,7 +42,7 @@ papers:
     title: Visual guidance for remote interaction in avatar-mediated mixed-reality telepresence
     year: '2022'
   UA6LFyIAAAAJ:ufrVoPGSRksC:
-    citations: 0
+    citations: 1
     title: 'Voronoi Rooms: Dynamic Visibility Modulation of Overlapping Spaces for Telepresence'
     year: '2025'
   UA6LFyIAAAAJ:zYLM7Y9cAGgC:
